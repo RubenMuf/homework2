@@ -1,0 +1,16 @@
+body{
+    margin: 10px 300px 40px 70px;
+
+}
+
+header{
+    line-height: 0;
+}
+
+section{
+    line-height: 1;
+}
+footer{
+    text-align: center;
+    opacity: .3;
+}
